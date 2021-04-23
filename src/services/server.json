@@ -16,7 +16,7 @@
       "id": 1,
       "name": "Aningapara",
       "about": "É uma espécie tropical que tem crescimento rápido e fácil manuseio.",
-      "water_tips": "Mantenha a terra sempre húmida sem encharcar. Regue 2 vezes na semana.",
+      "water_tips": "Mantenha a terra sempre úmida sem encharcar. Regue 2 vezes na semana.",
       "photo": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-plantmanager/1.svg",
       "environments": ["living_room", "kitchen"],
       "frequency": {
